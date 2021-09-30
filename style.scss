@@ -288,6 +288,9 @@ footer {
           color: $Grayish-blue;
           margin-top: 1em;
           font-weight: 400;
+          &:hover{
+            text-decoration: underline;
+          }
         }
       }
     }

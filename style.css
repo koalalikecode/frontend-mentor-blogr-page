@@ -275,6 +275,9 @@ footer .link-groups .link-group .links a {
   margin-top: 1em;
   font-weight: 400;
 }
+footer .link-groups .link-group .links a:hover {
+  text-decoration: underline;
+}
 
 @media screen and (min-width: 1441px) {
   .section-1 {
